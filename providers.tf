@@ -1,5 +1,8 @@
+# providers
+
 provider "aws" {
   region = "us-east-1"
+
 }
 
 variable "AWS_ACCESS_KEY_ID" {
